@@ -1,5 +1,5 @@
 .codelite
 Makefile
-*.txt
+compile_flags.txt
 Debug
 *.mk
