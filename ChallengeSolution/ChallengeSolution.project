@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Project Name="ChallengeSolution" Version="11000" InternalType="User templates">
+  <VirtualDirectory Name="Resources">
+    <File Name="Resources/Challenge.txt"/>
+  </VirtualDirectory>
   <Description/>
   <Dependencies/>
   <Settings Type="Executable">
